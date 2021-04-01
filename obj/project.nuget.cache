@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Foe/SSCR3+cMLzdkq+CYPP5GbuWqV4dB6TRRw3zqHv9+6avn3wHw+pTRxPOpOWMkqW5uEU119T5gcuybHyV+ng==",
+  "dgSpecHash": "Y1BoFeG7DbrZkEafJDEehyUQUgSVYgsxM3hmZp2gjciDMWywDnFjTOElSJtWCjko1nifkSKG2gqIr6449s3eJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCIIEncrypt\\CesarASCIIEncrypt.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\enushka-home\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
-    "C:\\Users\\enushka-home\\.nuget\\packages\\qliksense.netsdk\\15.3.4\\qliksense.netsdk.15.3.4.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCII\\CesarASCIIEncrypt.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

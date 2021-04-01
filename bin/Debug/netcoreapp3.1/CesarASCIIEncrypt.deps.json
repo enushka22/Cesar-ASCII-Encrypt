@@ -7,42 +7,8 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "CesarASCIIEncrypt/1.0.0": {
-        "dependencies": {
-          "QlikSense.NetSDK": "15.3.4"
-        },
         "runtime": {
           "CesarASCIIEncrypt.dll": {}
-        }
-      },
-      "Newtonsoft.Json/11.0.1": {
-        "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "11.0.0.0",
-            "fileVersion": "11.0.1.21818"
-          }
-        }
-      },
-      "QlikSense.NetSDK/15.3.4": {
-        "dependencies": {
-          "Newtonsoft.Json": "11.0.1"
-        },
-        "runtime": {
-          "lib/netcoreapp2.1/Qlik.Engine.Extensions.dll": {
-            "assemblyVersion": "15.3.4.0",
-            "fileVersion": "15.3.4.0"
-          },
-          "lib/netcoreapp2.1/Qlik.Engine.dll": {
-            "assemblyVersion": "15.3.4.0",
-            "fileVersion": "15.3.4.0"
-          },
-          "lib/netcoreapp2.1/Qlik.Sense.Client.dll": {
-            "assemblyVersion": "15.3.4.0",
-            "fileVersion": "15.3.4.0"
-          },
-          "lib/netcoreapp2.1/Qlik.Sense.JsonRpc.dll": {
-            "assemblyVersion": "15.3.4.0",
-            "fileVersion": "15.3.4.0"
-          }
         }
       }
     }
@@ -52,20 +18,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Newtonsoft.Json/11.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
-      "path": "newtonsoft.json/11.0.1",
-      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
-    },
-    "QlikSense.NetSDK/15.3.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-JbQYi+HQvk6Z06hgLyW87I5uYtHrkfGlEJMSeaYpSMPqb2hxYOw2bFiGZa9sjBsKlUTO6KNvHntVLQ79YNkaYQ==",
-      "path": "qliksense.netsdk/15.3.4",
-      "hashPath": "qliksense.netsdk.15.3.4.nupkg.sha512"
     }
   }
 }

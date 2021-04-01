@@ -1,108 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Newtonsoft.Json/11.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
-        }
-      },
-      "QlikSense.NetSDK/15.3.4": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "11.0.1"
-        },
-        "compile": {
-          "ref/netcoreapp2.1/Qlik.Engine.Extensions.dll": {},
-          "ref/netcoreapp2.1/Qlik.Engine.dll": {},
-          "ref/netcoreapp2.1/Qlik.Sense.Client.dll": {},
-          "ref/netcoreapp2.1/Qlik.Sense.JsonRpc.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.1/Qlik.Engine.Extensions.dll": {},
-          "lib/netcoreapp2.1/Qlik.Engine.dll": {},
-          "lib/netcoreapp2.1/Qlik.Sense.Client.dll": {},
-          "lib/netcoreapp2.1/Qlik.Sense.JsonRpc.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Newtonsoft.Json/11.0.1": {
-      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
-      "type": "package",
-      "path": "newtonsoft.json/11.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.md",
-        "lib/net20/Newtonsoft.Json.dll",
-        "lib/net20/Newtonsoft.Json.xml",
-        "lib/net35/Newtonsoft.Json.dll",
-        "lib/net35/Newtonsoft.Json.xml",
-        "lib/net40/Newtonsoft.Json.dll",
-        "lib/net40/Newtonsoft.Json.xml",
-        "lib/net45/Newtonsoft.Json.dll",
-        "lib/net45/Newtonsoft.Json.xml",
-        "lib/netstandard1.0/Newtonsoft.Json.dll",
-        "lib/netstandard1.0/Newtonsoft.Json.xml",
-        "lib/netstandard1.3/Newtonsoft.Json.dll",
-        "lib/netstandard1.3/Newtonsoft.Json.xml",
-        "lib/netstandard2.0/Newtonsoft.Json.dll",
-        "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.1.nupkg.sha512",
-        "newtonsoft.json.nuspec"
-      ]
-    },
-    "QlikSense.NetSDK/15.3.4": {
-      "sha512": "JbQYi+HQvk6Z06hgLyW87I5uYtHrkfGlEJMSeaYpSMPqb2hxYOw2bFiGZa9sjBsKlUTO6KNvHntVLQ79YNkaYQ==",
-      "type": "package",
-      "path": "qliksense.netsdk/15.3.4",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "content/readme.txt",
-        "lib/net452/Qlik.Engine.Extensions.dll",
-        "lib/net452/Qlik.Engine.Extensions.xml",
-        "lib/net452/Qlik.Engine.dll",
-        "lib/net452/Qlik.Engine.xml",
-        "lib/net452/Qlik.Sense.Client.dll",
-        "lib/net452/Qlik.Sense.Client.xml",
-        "lib/net452/Qlik.Sense.JsonRpc.dll",
-        "lib/net452/Qlik.Sense.JsonRpc.xml",
-        "lib/netcoreapp2.1/Qlik.Engine.Extensions.dll",
-        "lib/netcoreapp2.1/Qlik.Engine.Extensions.xml",
-        "lib/netcoreapp2.1/Qlik.Engine.dll",
-        "lib/netcoreapp2.1/Qlik.Engine.xml",
-        "lib/netcoreapp2.1/Qlik.Sense.Client.dll",
-        "lib/netcoreapp2.1/Qlik.Sense.Client.xml",
-        "lib/netcoreapp2.1/Qlik.Sense.JsonRpc.dll",
-        "lib/netcoreapp2.1/Qlik.Sense.JsonRpc.xml",
-        "qliksense.netsdk.15.3.4.nupkg.sha512",
-        "qliksense.netsdk.nuspec",
-        "ref/net452/Qlik.Engine.Extensions.dll",
-        "ref/net452/Qlik.Engine.dll",
-        "ref/net452/Qlik.Sense.Client.dll",
-        "ref/net452/Qlik.Sense.JsonRpc.dll",
-        "ref/netcoreapp2.1/Qlik.Engine.Extensions.dll",
-        "ref/netcoreapp2.1/Qlik.Engine.dll",
-        "ref/netcoreapp2.1/Qlik.Sense.Client.dll",
-        "ref/netcoreapp2.1/Qlik.Sense.JsonRpc.dll"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "QlikSense.NetSDK >= 15.3.4"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\enushka-home\\.nuget\\packages\\": {},
@@ -111,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enushka-home\\source\\repos\\CesarASCIIEncrypt\\CesarASCIIEncrypt.csproj",
+      "projectUniqueName": "C:\\Users\\enushka-home\\source\\repos\\CesarASCII\\CesarASCIIEncrypt.csproj",
       "projectName": "CesarASCIIEncrypt",
-      "projectPath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCIIEncrypt\\CesarASCIIEncrypt.csproj",
+      "projectPath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCII\\CesarASCIIEncrypt.csproj",
       "packagesPath": "C:\\Users\\enushka-home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCIIEncrypt\\obj\\",
+      "outputPath": "C:\\Users\\enushka-home\\source\\repos\\CesarASCII\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -147,12 +50,6 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
-        "dependencies": {
-          "QlikSense.NetSDK": {
-            "target": "Package",
-            "version": "[15.3.4, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
