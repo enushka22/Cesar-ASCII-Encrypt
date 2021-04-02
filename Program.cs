@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace CesarASCIIEncrypt
 {
@@ -8,29 +7,19 @@ namespace CesarASCIIEncrypt
         static void Main(string[] args)
         {
 
-
-
-
-
-
             static string EncryptCaesarASCII(string value, int shift)
             {
-
                 char[] charArr = value.ToCharArray();
                 char test;
                 int i = 0;
 
-
                 foreach (char ch in charArr)
-                {
-                    
+                {              
                     test = (char)(ch + shift);
-
 
                     if (test > 126)
                     {
                         test = (char)(test - 127 + 32);
-                        //test = (char)(ch + shift - 127);
                         //Console.Write(test.ToString());
                     }
                     else if (test < 32)
@@ -40,23 +29,15 @@ namespace CesarASCIIEncrypt
                     }
                     else
                     {
-
                         //Console.Write(test.ToString());
                     }
 
                     charArr[i] = test;
                     i++;
-
-                }
-                
+                }              
                 return new string(String.Join("", charArr));
                 
             }
-
-
-
-
-
 
 
 
@@ -77,7 +58,7 @@ namespace CesarASCIIEncrypt
                         Console.WriteLine("Введите текст для шифрования:");
                         string origtext = Console.ReadLine();
 
-                        Console.Write("Выбетире сдвиг шифра от -127 до 127:");
+                        Console.Write("Выбетире сдвиг шифра от -95 до 95:");
                         sbyte sdvigshifra = Convert.ToSByte(Console.ReadLine());
                         
                         Console.WriteLine(EncryptCaesarASCII(origtext, sdvigshifra));
@@ -87,27 +68,24 @@ namespace CesarASCIIEncrypt
 
                 case "2":
                     {
-                        Console.WriteLine("2You pressed x...");
+                        Console.WriteLine("Введите текст для расшифровки (ENG):");
+                        string origtext = Console.ReadLine();
+
+                        for (int i = 0; i < 95; i++)
+                        {
+                            //Console.WriteLine("Value of i: {0}", i);
+                            Console.WriteLine(i +" --- " + EncryptCaesarASCII(origtext, i));
+                            Console.WriteLine();
+                        }
+                        Console.ReadLine();
                         break;
                     }
 
                 default:
-                    //string sentence = "lxxt>33m2mqkyv2gsq3q=w]O2ntk";
                     Console.WriteLine("Unknown Command.");
                     break;
             }
 
-
-
-
-
-
-
-
-
-
-
-            
 
 
         }
