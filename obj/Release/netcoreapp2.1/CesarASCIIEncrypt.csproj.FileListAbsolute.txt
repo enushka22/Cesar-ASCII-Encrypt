@@ -1,0 +1,4 @@
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp2.1\CesarASCIIEncrypt.csprojAssemblyReference.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp2.1\CesarASCIIEncrypt.AssemblyInfoInputs.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp2.1\CesarASCIIEncrypt.AssemblyInfo.cs
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp2.1\CesarASCIIEncrypt.csproj.CoreCompileInputs.cache

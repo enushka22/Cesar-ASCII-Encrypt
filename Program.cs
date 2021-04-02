@@ -60,7 +60,12 @@ namespace CesarASCIIEncrypt
 
                         Console.Write("Выбетире сдвиг шифра от -95 до 95:");
                         sbyte sdvigshifra = Convert.ToSByte(Console.ReadLine());
-                        
+
+                        if (sdvigshifra < -95 | sdvigshifra > 95) 
+                        { 
+                            sdvigshifra = 0; 
+                        }
+
                         Console.WriteLine(EncryptCaesarASCII(origtext, sdvigshifra));
                         Console.ReadLine();
                         break;

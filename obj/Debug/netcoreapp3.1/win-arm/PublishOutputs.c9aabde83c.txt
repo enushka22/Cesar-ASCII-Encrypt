@@ -1,0 +1,5 @@
+C:\Users\enushka-home\source\repos\CesarASCII\bin\CesarASCIIEncrypt.exe
+C:\Users\enushka-home\source\repos\CesarASCII\bin\CesarASCIIEncrypt.dll
+C:\Users\enushka-home\source\repos\CesarASCII\bin\CesarASCIIEncrypt.deps.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\CesarASCIIEncrypt.runtimeconfig.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\CesarASCIIEncrypt.pdb

@@ -10,3 +10,4 @@ C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.1\CesarASC
 C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.1\CesarASCIIEncrypt.dll
 C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.1\CesarASCIIEncrypt.pdb
 C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.1\CesarASCIIEncrypt.genruntimeconfig.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.1\CesarASCIIEncrypt.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.exe
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.deps.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.runtimeconfig.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.runtimeconfig.dev.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.dll
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.pdb
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.AssemblyInfoInputs.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.AssemblyInfo.cs
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.dll
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.pdb
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Debug\netcoreapp3.1\win-arm\CesarASCIIEncrypt.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.exe
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.deps.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.runtimeconfig.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.runtimeconfig.dev.json
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.dll
+C:\Users\enushka-home\source\repos\CesarASCII\bin\Release\netcoreapp3.0\CesarASCIIEncrypt.pdb
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.csprojAssemblyReference.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.AssemblyInfoInputs.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.AssemblyInfo.cs
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.dll
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.pdb
+C:\Users\enushka-home\source\repos\CesarASCII\obj\Release\netcoreapp3.0\CesarASCIIEncrypt.genruntimeconfig.cache
